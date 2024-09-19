@@ -1,0 +1,21 @@
+# PyCharm dir
+.idea/
+
+# Pyinstaller output dir and its some files
+dist/
+*.spec
+
+# All the text docs
+*.txt
+
+# Other unnecessary files
+*.pkl
+
+# Output pictures
+*.png
+
+# Build files
+build/
+
+# Pycache files
+__pycache__/
